@@ -15,3 +15,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://dl.dropboxusercontent.com/s/fcc2sbh556rtp08/gtv.png", GTV
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="RCTI+",RCTI (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
