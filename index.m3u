@@ -39,3 +39,105 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/SPOTV_logo.svg" group-title="INDONESIA ➾  SPORTS",SPOTV	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 
+===========Channels Percobaan================
+#EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",Nature
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",WELCOME@SHAREEXT@REBORN
+https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
+#EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",WELCOME@_SHAREEXT@!!!!
+https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
+#EXTINF: -1  tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png" group-title="ShareExt@Relax", True•Premiere Football 1
+http://myserver.myphuket.net:25461/test2/test2/26
+#EXTINF: -1  tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png" group-title="ShareExt@Relax", True•Premiere Football 2
+http://myserver.myphuket.net:25461/test2/test2/27
+##EXTINF: -1  tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png" group-title="ShareExt@Relax", True•Premiere Football 3
+http://myserver.myphuket.net:25461/test2/test2/28
+#EXTINF: -1  tvg-logo="https://img2.sport-tv-guide.live/images/tvm-station-true-sport-4-1073.png" group-title="ShareExt@Relax", True•Sports 1
+http://myserver.myphuket.net:25461/test2/test2/58
+#EXTINF: -1  tvg-logo="https://img2.sport-tv-guide.live/images/tvm-station-true-sport-4-1073.png" group-title="ShareExt@Relax", True•Sports 2
+http://myserver.myphuket.net:25461/test2/test2/59
+#EXTINF: -1  tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports.png" group-title="ShareExt@Relax", BeinSports•1 (TrueVision)
+http://myserver.myphuket.net:25461/test2/test2/29
+#EXTINF: -1  tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-2.png" group-title="ShareExt@Relax", BeinSports•2 (TrueVision)
+http://myserver.myphuket.net:25461/test2/test2/49
+#EXTINF: -1  tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-3.png" group-title="ShareExt@Relax", BeinSports•3 (TrueVision)
+http://myserver.myphuket.net:25461/test2/test2/50
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport.png" group-title="ShareExt@Relax", Go3Sport•Open
+http://lb.wisp.cat/lb0/TV3_SPORT_OPEN_HD/video.m3u8?token=7jfxcz8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport1.png" group-title="ShareExt@Relax", Go3Sport•1
+http://lb.wisp.cat/lb0/LT_VIASAT_SPORT_BALTIC_HD/video.m3u8?token=7jfxcz8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport2.png" group-title="ShareExt@Relax", Go3Sport•2
+http://lb.wisp.cat/lb0/SDI_TVPLAY_SPORTS_PLUS/video.m3u8?token=7jfxcz8
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="ShareExt@Relax",[TW] ELTA体育1台
+http://iptv12k.com:35461/654321/123456/14443
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d920826e421c52555783aa87e7af47d4.png" group-title="ShareExt@Relax",[TW] ELTA体育2台 
+http://iptv12k.com:35461/654321/123456/14442
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" group-title="ShareExt@Relax",[TW] ELTA体育3台 
+http://iptv12k.com:35461/654321/123456/14441
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg" group-title="ShareExt@Relax",[TW] ELEVEN 体育1 
+http://iptv12k.com:35461/654321/123456/14440
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="ShareExt@Relax",[TW] ELEVEN 体育2
+http://iptv12k.com:35461/654321/123456/14439
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.jpg" group-title="ShareExt@Relax",[TW] ESPN 
+http://iptv12k.com:35461/654321/123456/14434
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png" group-title="ShareExt@Relax",JP: J SPORTS 1
+http://iptv12k.com:35461/654321/123456/3134
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png" group-title="ShareExt@Relax",JP: J SPORTS 2
+http://iptv12k.com:35461/654321/123456/3135
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-158-400x400.png" group-title="ShareExt@Relax",JP: J SPORTS 3
+http://iptv12k.com:35461/654321/123456/3136
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1720.png" group-title="ShareExt@Relax",JP: J SPORTS 4
+http://iptv12k.com:35461/654321/123456/3137
+#EXTINF:-1 tvg-logo="https://www.tv-address.com/wp-content/uploads/2021/03/gaora_sports.jpg" group-title="ShareExt@Relax",JP: GAORA JP
+http://iptv12k.com:35461/654321/123456/3131
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="ShareExt@Relax",Thairath TV HD
+http://iptv12k.com:35461/654321/123456/2587
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax",[ID] FightSports
+http://iptv12k.com:35461/654321/123456/1788
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/inews-id.png" group-title="ShareExt@Relax",[ID] iNews
+http://iptv12k.com:35461/654321/123456/1799
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uOQKpR91Cjc/mqdefault.jpg" group-title="ShareExt@Relax",Bola Arena 1 
+http://iptv12k.com:35461/654321/123456/20630
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uOQKpR91Cjc/mqdefault.jpg" group-title="ShareExt@Relax",Bola Arena 2 
+http://iptv12k.com:35461/654321/123456/20629
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UXCymQ-7RN8/maxresdefault.jpg" group-title="ShareExt@Relax",Arena 2 (b)
+http://iptv12k.com:35461/654321/123456/10971
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="ShareExt@Relax",PHI: beINSports 3
+http://iptv12k.com:35461/654321/123456/9695
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="ShareExt@Relax", Supersports Premier League 1 
+http://iptv12k.com:35461/654321/123456/11243
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="ShareExt@Relax", Supersports Premier League 2(a)
+http://iptv12k.com:35461/654321/123456/11242
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="ShareExt@Relax",Astro Grandstand(g) Premier League 3
+http://iptv12k.com:35461/654321/123456/11241
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="ShareExt@Relax",Astro Grandstand(d) Premier League 3
+http://iptv12k.com:35461/654321/123456/5220
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="ShareExt@Relax", Supersports Premier 4 HD(a)
+http://iptv12k.com:35461/654321/123456/7984
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="ShareExt@Relax", Supersports Premier 4 HD
+http://iptv12k.com:35461/654321/123456/7983
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" group-title="ShareExt@Relax", W-Sport (a)
+http://iptv12k.com:35461/654321/123456/7982
+#EXTINF:-1 tvg-logo="https://i.loli.net/2021/10/10/y54dWwuGTJSPisl.png" group-title="ShareExt@Relax",[HK] 耀才财经 FIGHT SPORTS
+http://iptv12k.com:35461/654321/123456/1016
+#EXTINF:-1 tvg-logo="https://i.loli.net/2021/10/10/rVqBTmoNjlhSwk5.jpg" group-title="ShareExt@Relax",[HK] Now Sports 精選 CH630 HK
+http://iptv12k.com:35461/654321/123456/1017
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="ShareExt@Relax",Now Sports 1
+http://iptv12k.com:35461/654321/123456/21684
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-2-1990.png" group-title="ShareExt@Relax",Now 体育2 Sports 2
+http://iptv12k.com:35461/654321/123456/21686
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/633_e.png" group-title="ShareExt@Relax",Now 体育3 Sports 3 
+http://iptv12k.com:35461/654321/123456/21688
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/634_e.png" group-title="ShareExt@Relax",Now Sports 4
+http://iptv12k.com:35461/654321/123456/21724
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/635_e.png" group-title="ShareExt@Relax",Now Sports 5
+http://iptv12k.com:35461/654321/123456/21722
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/636-dbg-e.png" group-title="ShareExt@Relax",Now Sports 6 
+http://iptv12k.com:35461/654321/123456/21720
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/637-wbg-e.png" group-title="ShareExt@Relax",Now Sports 7
+http://iptv12k.com:35461/654321/123456/21718
+#EXTINF:-1 tvg-logo="https://www.golfchannel.com/sites/default/files/new_golf_channel_logo_304.jpg" group-title="ShareExt@Relax",[TW] NBCgolf
+http://iptv12k.com:35461/654321/123456/1228
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="ShareExt@Relax",[TW] NBA
+http://iptv12k.com:35461/654321/123456/1227
+
