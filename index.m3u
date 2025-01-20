@@ -28,28 +28,22 @@ https://cdngb196.indihometv.com/atm/hlsv3/transtv/transtv-avc1_800000=3-mp4a_960
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://images.indihometv.com/tvposter/trans7.png" group-title="Indonesia Channels", TRANS7
 https://cdngb196.indihometv.com/atm/hlsv3/trans7/trans7-avc1_800000=3-mp4a_96000=5.m3u8
 ===============Channles Cadangan=============
-#EXTINF:-1  tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Channels Cadangan",INDOSIAR-HD(pft)televizo
-http://perfecttv.net:8080/live/Perfecttv/Perfecttv/1604.ts
 
-#EXTINF:-1  tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Channels Cadangan",INDOSIAR-HD(VIP)
-http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
-
-#EXTINF:-1  tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Channels Cadangan",INDOSIAR-HDD
-https://mantul.biz.id:443/inetwork/gayanet12/60.ts
-
-#EXTINF:-1  tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Channels Cadangan",INDOSIAR-FHDD
+===============INDONESIA ➾  SPORTS==========
+#EXTINF:-1  tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="INDONESIA ➾  SPORTS",INDOSIAR
 https://mantul.biz.id:443/inetwork/gayanet12/5286.ts
 
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Channels Cadangan",Indosiar.(indihome)
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" group-title="INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png", RCTI (VIP)
-http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34322
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="INDONESIA ➾  SPORTS", SCTV (VIP)
-http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34323
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="INDONESIA ➾  SPORTS", TRANSTV (VIP)
-http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34324
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="INDONESIA ➾  SPORTS", TRANS7 (VIP)
-http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34325
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="INDONESIA ➾  SPORTS", MNCTV (VIP)
-http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34326
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",PSJ TV_🇲🇨
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~SPOTV•🇲🇨	
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~SPOTV•1•FHD🇲🇨	
+https://mantul.biz.id:443/inetwork/gayanet12/4946.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~SPOTV•2•FHD🇲🇨	
+https://mantul.biz.id:443/inetwork/gayanet12/15858.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Football•🇲🇨	
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Football•FHD🇲🇨	
+https://mantul.biz.id:443/inetwork/gayanet12/241.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Sportstars~2•🇲🇨	
+https://mantul.biz.id:443/inetwork/gayanet12/5984.ts
