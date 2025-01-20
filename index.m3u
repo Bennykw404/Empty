@@ -19,7 +19,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="Indonesia Channels", TRANSTV
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.wikia.nocookie.net/sketsa/images/4/44/Logotranstv.png/revision/latest?cb=20210722133912&path-prefix=id" group-title="Indonesia Channels", TRANSTV
 https://cdngb196.indihometv.com/atm/hlsv3/transtv/transtv-avc1_800000=3-mp4a_96000=5.m3u8
 
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://images.indihometv.com/tvposter/trans7.png" group-title="Indonesia Channels", TRANS7
