@@ -36,22 +36,6 @@ https://mantul.biz.id:443/inetwork/gayanet12/5286.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="INDONESIA ➾  SPORTS",ID~Football•🇲🇨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/SPOTV#/media/File:SPOTV_logo.svg" group-title="INDONESIA ➾  SPORTS",SPOTV	
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/SPOTV_logo.svg" group-title="INDONESIA ➾  SPORTS",SPOTV	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="INDONESIA ➾  SPORTS",PSJ TV
-https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="INDONESIA ➾  SPORTS",ID~Sportstars~2•🇲🇨	
-https://mantul.biz.id:443/inetwork/gayanet12/5984.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~SPOTV•🇲🇨	
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~SPOTV•1•FHD🇲🇨	
-https://mantul.biz.id:443/inetwork/gayanet12/4946.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~SPOTV•2•FHD🇲🇨	
-https://mantul.biz.id:443/inetwork/gayanet12/15858.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Football•FHD🇲🇨	
-https://mantul.biz.id:443/inetwork/gayanet12/241.ts
 
