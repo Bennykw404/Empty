@@ -39,3 +39,17 @@ https://mantul.biz.id:443/inetwork/gayanet12/60.ts
 
 #EXTINF:-1  tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Channels Cadangan",INDOSIAR-FHDD
 https://mantul.biz.id:443/inetwork/gayanet12/5286.ts
+
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Channels Cadangan",Indosiar.(indihome)
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" group-title="INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png", RCTI (VIP)
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34322
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="INDONESIA ➾  SPORTS", SCTV (VIP)
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34323
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="INDONESIA ➾  SPORTS", TRANSTV (VIP)
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34324
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="INDONESIA ➾  SPORTS", TRANS7 (VIP)
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34325
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="INDONESIA ➾  SPORTS", MNCTV (VIP)
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34326
