@@ -152,3 +152,7 @@ http://iptv12k.com:35461/654321/123456/21718
 ===========Movies ➾ Animation================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg" group-title="VOD Animation",MONA 2
 https://raw.githubusercontent.com/Bennykw404/Empty/refs/heads/main/VOD/mona2.m3u8
+
+===========Movies ➾ Drama================
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg" group-title="VOD DRAMA",SQUID GAME S1-EP1
+https://raw.githubusercontent.com/Bennykw404/Empty/refs/heads/main/VOD/SQUID%20GAME/S1/ep1.m3u8
