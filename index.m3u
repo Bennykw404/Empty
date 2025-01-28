@@ -150,8 +150,5 @@ http://iptv12k.com:35461/654321/123456/21718
 ===========Channels Percobaan================
 
 ===========Movies ➾ Animation================
-#EXTM3U
-# Title Group: Animation
-# Logo: https://image.tmdb.org/t/p/w780/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg
-
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w780/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg" group-title="VOD Animation",MONA 2
 https://droxonwave.site/file2/C6~pzJ0xDVm10~8pp3BdJa4efR2xSrcCZy4MRTNr665HRl~uYU+i503d+nqFNgY3H8XCN2RUMCFkeVyx1wVyVKqDjDCeK+ynpUyJ14MGayAbPQDfe7u2mkRifeFCCqNwBedVQNnClddCnW7wLy+sIK4KFW9nLb7sdapF~nAiy4Y=/cGxheWxpc3QubTN1OA==.m3u8
