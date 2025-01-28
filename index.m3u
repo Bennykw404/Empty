@@ -148,3 +148,20 @@ http://iptv12k.com:35461/654321/123456/21720
 http://iptv12k.com:35461/654321/123456/21718
 
 ===========Channels Percobaan================
+
+===========Movies ➾ Animation================
+#EXTM3U
+# Title Group: Anination
+# Logo: https://image.tmdb.org/t/p/w780/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg
+
+#EXT-X-TITLE:Mona 2 1080p Full HD
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://droxonwave.site/file2/C6~pzJ0xDVm10~8pp3BdJa4efR2xSrcCZy4MRTNr665HRl~uYU+i503d+nqFNgY3H8XCN2RUMCFkeVyx1wVyVKqDjDCeK+ynpUyJ14MGayAbPQDfe7u2mkRifeFCCqNwBedVQNnClddCnW7wLy+sIK4KFW9nLb7sdapF~nAiy4Y=/MTA4MA==/aW5kZXgubTN1OA==.m3u8
+
+#EXT-X-TITLE:Mona 2 720p HD
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1800000,RESOLUTION=1280x720
+https://droxonwave.site/file2/C6~pzJ0xDVm10~8pp3BdJa4efR2xSrcCZy4MRTNr665HRl~uYU+i503d+nqFNgY3H8XCN2RUMCFkeVyx1wVyVKqDjDCeK+ynpUyJ14MGayAbPQDfe7u2mkRifeFCCqNwBedVQNnClddCnW7wLy+sIK4KFW9nLb7sdapF~nAiy4Y=/NzIw/aW5kZXgubTN1OA==.m3u8
+
+#EXT-X-TITLE:Mona 2 360p SD
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=720000,RESOLUTION=640x360
+https://droxonwave.site/file2/C6~pzJ0xDVm10~8pp3BdJa4efR2xSrcCZy4MRTNr665HRl~uYU+i503d+nqFNgY3H8XCN2RUMCFkeVyx1wVyVKqDjDCeK+ynpUyJ14MGayAbPQDfe7u2mkRifeFCCqNwBedVQNnClddCnW7wLy+sIK4KFW9nLb7sdapF~nAiy4Y=/MzYw/aW5kZXgubTN1OA==.m3u8
